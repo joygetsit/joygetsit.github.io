@@ -28,7 +28,7 @@ enableRobotsTXT = true
   
 [params]
   text_color = ""
-  author = ""
+  author = "Joydeep Pal"
   favicon = ""
   site_logo = ""
   description = "The last theme you'll ever need. Maybe."
@@ -39,3 +39,8 @@ enableRobotsTXT = true
 [[params.ananke_socials]]
 name = "twitter"
 url = "https://twitter.com/GoHugoIO"
+
+[[params.ananke_socials]]
+icon = "github"
+name = "Github"
+url = "https://joygetsit.github.io/"
