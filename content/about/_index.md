@@ -1,6 +1,6 @@
 ---
 title: ABOUT
-description: Hey, I'm Edna West
+description: About me
 images: ["/images/sample.jpg"]
 ---
 
