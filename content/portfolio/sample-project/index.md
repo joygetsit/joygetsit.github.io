@@ -1,11 +1,10 @@
 ---
 title: Tactile Internet 
 description: TI-enabled Teleoperation
-date: "2019-05-02T19:47:09+02:00"
+date: "2022-05-02T19:47:09+02:00"
 jobDate: 2021-2022
 work: [Tactile Internet, Robotics, AI]
-techs: [javascript, D3]
-designs: [Photoshop]
+designs: [Hardware, Embedded Systems]
 thumbnail: sample-project/poster_cyphyss.jpg
 projectUrl: https://labs.dese.iisc.ac.in/zenlab/ongoing-projects/tsn/
 ---
