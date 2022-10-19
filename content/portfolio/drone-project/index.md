@@ -1,5 +1,5 @@
 ---
-title: Intelligence Drone Swarm
+title: Intelligent Drones
 description: Energy-Aware Path Planning in Multi-Drone system
 date: "2019-05-02T19:47:09+02:00"
 jobDate: 2019-2021
