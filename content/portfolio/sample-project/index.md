@@ -1,25 +1,15 @@
 ---
-title: Sample project
-description: This is the description of our sample project
+title: Tactile Internet 
+description: TI-enabled Teleoperation
 date: "2019-05-02T19:47:09+02:00"
-jobDate: 2019
-work: [design, architecture]
+jobDate: 2021-2022
+work: [Tactile Internet, Robotics, AI]
 techs: [javascript, D3]
 designs: [Photoshop]
-thumbnail: sample-project/sample.jpg
-projectUrl: https://www.sampleorganization.org
-testimonial:
-  name: John Doe
-  role: CEO @Example
-  image: sample-project/john.jpg
-  text: Prow scuttle parrel provost Sail ho shrouds spirits boom mizzenmast yardarm. Pinnace holystone mizzenmast quarter crow's nest nipperkin
+thumbnail: sample-project/poster_cyphyss.jpg
+projectUrl: https://labs.dese.iisc.ac.in/zenlab/ongoing-projects/tsn/
 ---
 
-This would be a description of your sample project. You can add any content you'd like.
+Our overall objective is on design and implementation of a Tactile Cyber-Physical System for real-time interaction between physical and virtual worlds for applications requiring ultra-reliable low latency communications.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Time-sensitive networking (TSN) is the IEEE 802.1Q defined standard technology to provide deterministic messaging on standard Ethernet. It provides guarantees of delivery and minimized jitter using time scheduling for those real-time applications that require determinism. We study Netronome smartNICs and NetFPGA network accelerators to implement 802.1Qbv Time-Aware Shaper (TAS) to obtain bounded (determinstic) latency and reliability reagrding queueing and processing latency of the network devices on the path of a packet.

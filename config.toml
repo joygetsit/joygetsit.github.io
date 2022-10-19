@@ -9,8 +9,8 @@ pygmentsUseClasses=true
 pygmentsCodeFences=true
 
 [params.intro]
-  main = "Joydeep Pal :wave:"
-  sub = "PhD Candidate @ the Department of Electronic Systems Engineering (DESE), IISc"
+  main = "Joydeep Pal"
+  sub = "Research Engineer, IISc"
 
 [params.main]
   latestPublishHeader = "My Latest Project"
@@ -47,9 +47,9 @@ pygmentsCodeFences=true
   customCSS = ""
 
 [params.social]
-  github = "https://github.com/"
+  github = "https://github.com/joygetsit"
   twitter = "https://twitter.com/"
-  linkedin = "https://www.linkedin.com/in/"
+  linkedin = "https://www.linkedin.com/in/joydeeppal94"
 
 [params.contact]
   email = "joydeeppal@iisc.ac.in"

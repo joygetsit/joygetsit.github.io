@@ -6,8 +6,10 @@ images: ["/images/sample.jpg"]
 
 Hey,
 
-I'm Edna West, a Web Developer and Entrepreneur.
+I'm Joydeep Pal, a Researcher and an Engineer.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus error cumque quisquam necessitatibus libero dolore porro, quo at molestiae modi voluptatibus iusto alias corporis. Accusamus, debitis, atque. Maiores, distinctio, neque.
+I work on Tactile Internet systems which has applications in Haptic Teleoperation, Remote Driving and Remote Surgery, to name a few.
+
+Currently, I am a PhD scholar in IISc Bangalore.
 
 [Get to know me better](/about "Get to know me better")
